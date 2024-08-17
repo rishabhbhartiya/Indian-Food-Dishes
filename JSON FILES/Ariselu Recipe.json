@@ -1,0 +1,100 @@
+{
+    "Recipe Title": "Ariselu Recipe",
+    "Recipe Info": {
+        "Total Cook Time": "1 hr 30 mins",
+        "Prep Time": "15 mins",
+        "Cook Time": "1 hr 15 mins",
+        "Recipe Servings": "2",
+        "Medium": "N/A"
+    },
+    "Ingredients": [
+        "1/2 Cup rice",
+        "1/2 cup jaggery",
+        "1 cup water",
+        "1 tsp cardamom powder",
+        "1 tbsp ghee",
+        "Oil (to deep fry)",
+        "for garnishing sesame seeds"
+    ],
+    "Main Title": "How to Make Ariselu",
+    "Steps": {
+        "Soaking & Grinding:": [
+            {
+                "step_number": "1.",
+                "step_text": "Soak the rice overnight."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Rinse for 2 to 3 times and strain out the water."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Leave the rice on the strainer for around 10 to 15 minutes."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "Grind the rice in batches into a very fine flour and keep aside."
+            }
+        ],
+        "Prepare jaggery syrup:": [
+            {
+                "step_number": "1.",
+                "step_text": "Put jaggery in a deep pan and add 40 to 50 ml water so the jaggery melts very fast."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Boil until the syrup starts bubbling. When the syrup starts to bubble, take a small spoonful of syrup and put it in a small cup of water. If the syrup doesn\u2019t dissolve or if it turns into a ball when pressed with fingers then the syrup is ready."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Add ghee, cardamom powder, and mix well."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "Turn off the flame and keep it aside."
+            }
+        ],
+        "Prepare the dough:": [
+            {
+                "step_number": "1.",
+                "step_text": "Add the rice flour little by little through the sieve to the jaggery syrup. Keep stirring and keep adding the rice flour until the dough turns hard like chapati dough."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Heat oil for deep-frying on a medium flame."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Take Arise sized lid with a plastic sheet placed on it."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "Grease your fingers and the plastic sheet with ghee."
+            },
+            {
+                "step_number": "5.",
+                "step_text": "Take a fistful of dough and make it into a round ball. Pat it into a round flat shape until it covers the lid size."
+            },
+            {
+                "step_number": "6.",
+                "step_text": "You need to dip each dough ball in sesame seeds before patting if you want sesame seed Ariselu."
+            },
+            {
+                "step_number": "7.",
+                "step_text": "Drop it into oil carefully and wait until the Arise floats to the top."
+            },
+            {
+                "step_number": "8.",
+                "step_text": "Fry for a minute and flip it over to the other side. Fry until it turns to a nice golden brown color."
+            },
+            {
+                "step_number": "9.",
+                "step_text": "Take out the Arise from oil and press it hard with two turner spoons until all the excess oil comes out."
+            },
+            {
+                "step_number": "10.",
+                "step_text": "Serve Telangana's traditional sweet garnish with sesame seed and few drop of ghee."
+            }
+        ]
+    }
+}

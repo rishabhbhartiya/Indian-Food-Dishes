@@ -1,0 +1,50 @@
+{
+    "Recipe Title": "Aubergine and Green Chili Salan Recipe",
+    "Recipe Info": {
+        "Total Cook Time": "55 mins",
+        "Prep Time": "15 mins",
+        "Cook Time": "40 mins",
+        "Recipe Servings": "2",
+        "Easy": "N/A"
+    },
+    "Ingredients": [
+        "2 1/2 Tbsp peanuts",
+        "6  aubergines (slit till the stem)",
+        "5  green chillies (halved)",
+        "1 tsp red chilli powder",
+        "1  onion, julienne",
+        "1 tsp turmeric powder",
+        "1 tsp fennel seeds",
+        "1 tsp black pepper",
+        "1/2 tsp coriander seeds",
+        "Coriander",
+        "1/4  coconut, grated",
+        "2 tsp poppy seeds",
+        "Onions",
+        "7  Cloves",
+        "1/2 tsp cumin seeds",
+        "1 inch  ginger cut",
+        "9  Garlic cloves (bashed)",
+        "5 tbsp oil",
+        "1/2  glass of water",
+        "1  Lemon (squeezed)",
+        "For the kachumbar salad:",
+        "1  Cucumber, chopped",
+        "1  Tomato, chopped",
+        "1  Radish, chopped",
+        "1/2  Onion, finely chopped",
+        "1/2 tsp red chilli powder",
+        "Salt (to flavour)",
+        "1  Lemon (juiced)",
+        "Handful of coriander leaves"
+    ],
+    "Main Title": "How to Make Aubergine and Green Chili Salan",
+    "Steps": {
+        "Prepare Kachumbar salad:": [
+            {
+                "step_number": "1.",
+                "step_text": "Mix all the chopped vegetables and serve with the salan."
+            }
+        ]
+    }
+}

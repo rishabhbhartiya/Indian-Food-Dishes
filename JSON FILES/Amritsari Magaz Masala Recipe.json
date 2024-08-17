@@ -1,0 +1,152 @@
+{
+    "Recipe Title": "Amritsari Magaz Masala Recipe",
+    "Recipe Info": {
+        "Total Cook Time": "1 hr 20 mins",
+        "Prep Time": "20 mins",
+        "Cook Time": "1 hr",
+        "Recipe Servings": "2",
+        "Medium": "N/A"
+    },
+    "Ingredients": [
+        "7-8 Pieces lamb brain (magaz)",
+        "44  onions, finely chopped",
+        "1 cup melon seeds, peeled",
+        "3-4 tbsp oil",
+        "Water",
+        "For the Tomato-Onion Mixture:",
+        "3  tomatoes, finely chopped",
+        "1  onion, finely chopped",
+        "1 tbsp desi ghee",
+        "6-8  garlic cloves, finely chopped",
+        "1/2 inch piece ginger, finely chopped",
+        "A pinch of salt",
+        "A pinch of red chilli powder",
+        "1/2 tsp cumin powder",
+        "For the Gravy:",
+        "5-6  green chillies",
+        "2 1/2 tsp garlic paste",
+        "1 tsp ginger paste",
+        "1 tbsp desi ghee",
+        "Onion paste (half of what you have made)",
+        "Melon seed paste",
+        "A pinch of salt and white pepper",
+        "butter cubes",
+        "4  garlic cloves, chopped",
+        "2 tsp cumin powder",
+        "2 tsp turmeric powder",
+        "Tomato-onion mixture",
+        "1 tsp red chilli powder",
+        "1/2 tsp lime juice",
+        "1/2 tsp kasoori methi",
+        "Coriander leaves for garnish"
+    ],
+    "Main Title": "How to Make Amritsari Magaz Masala",
+    "Steps": {
+        "Prepare the Melon and Onion Paste:": [
+            {
+                "step_number": "1.",
+                "step_text": "Fry the melon seeds in oil. Since they are slightly bitter frying them helps takes away the bitterness."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "They cook really fast and when you see them browning on the outside, take them out."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Mix them with cold water and blend them in a mixture to make a thick paste."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "Cut 4 onions into quarters and boil them. This should take about 3-4 minutes. You can make out by the color and the smell that they are done."
+            },
+            {
+                "step_number": "5.",
+                "step_text": "Rinse with some cold water."
+            },
+            {
+                "step_number": "6.",
+                "step_text": "Now mix these onion pieces with water and little bit of oil (3-4 Tbsp). Blend them in a mixer to make a thick onion paste. (By adding the oil you can store the paste for a longer time. Also the oil gives it a glaze and a nice whitish colour)"
+            }
+        ],
+        "Prepare the Tomato Mixture:": [
+            {
+                "step_number": "1.",
+                "step_text": "Add a nice dollop of desi ghee in a pan. Once heated add the garlic (half of it) and ginger to it. Let it saute for a minute."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Once it browns add the onions. Mix it well. Once the onions turn nice golden brown add the tomatoes."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Add a pinch of salt at this stage."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "Saute this for a couple of minutes. Now add a pinch of red chilli powder and cumin powder."
+            },
+            {
+                "step_number": "5.",
+                "step_text": "Mix all well. Once the tomatoes look cooked take the pan off the heat."
+            }
+        ],
+        "Prepare the Gravy:": [
+            {
+                "step_number": "1.",
+                "step_text": "Heat desi ghee in a pan, add garlic paste, ginger paste and saute."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "As the mixture turns brown, add the boiled onion paste and roast it for sometime."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Now add melon seed paste, salt and little bit of white pepper. Roast it."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "Once done, set it aside."
+            },
+            {
+                "step_number": "5.",
+                "step_text": "Now in another pan heat some butter and saute the garlic."
+            },
+            {
+                "step_number": "6.",
+                "step_text": "Add the onion-melon seed base that was made and set aside."
+            },
+            {
+                "step_number": "7.",
+                "step_text": "Now add cumin, turmeric, the tomato-onion mixture, salt and red chilli powder into the above mixture."
+            },
+            {
+                "step_number": "8.",
+                "step_text": "Mix well."
+            },
+            {
+                "step_number": "9.",
+                "step_text": "Break the lamb brains into small pieces with your hands and add them to the mixture."
+            },
+            {
+                "step_number": "10.",
+                "step_text": "Stir gently."
+            },
+            {
+                "step_number": "11.",
+                "step_text": "Coat it well with the masalas."
+            },
+            {
+                "step_number": "12.",
+                "step_text": "Add the lime juice and kasoori methi."
+            },
+            {
+                "step_number": "13.",
+                "step_text": "Cook for a minute."
+            },
+            {
+                "step_number": "14.",
+                "step_text": "Garnish with some coriander leaves and serve hot."
+            }
+        ]
+    }
+}

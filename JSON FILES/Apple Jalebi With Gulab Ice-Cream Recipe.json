@@ -1,0 +1,107 @@
+{
+    "Recipe Title": "Apple Jalebi With Gulab Ice-Cream Recipe",
+    "Recipe Info": {
+        "Total Cook Time": "50 mins",
+        "Prep Time": "10 mins",
+        "Cook Time": "40 mins",
+        "Recipe Servings": "4",
+        "Medium": "N/A"
+    },
+    "Ingredients": [
+        "For apple jalebi:",
+        "2 medium apples",
+        "1 cup refined flour",
+        "1 cup + 1 tsp sugar",
+        "A few saffron strands",
+        "Ghee for deep-frying",
+        "1/4 tsp green cardamom powder",
+        "1/2 tsp dry yeast",
+        "1 tsp rose water",
+        "Sliced pistachios for garnishing",
+        "Fresh rose petals for garnishing",
+        "For gulab ice-cream:",
+        "100 gms fresh rose petals",
+        "200 ml vanilla ice cream",
+        "2-3 Tbsp rose petal jam (gulkand)",
+        "3/4 cup chopped pistachios and almonds"
+    ],
+    "Main Title": "How to Make Apple Jalebi With Gulab Ice-Cream",
+    "Steps": {
+        "For apple jalebi:": [
+            {
+                "step_number": "1.",
+                "step_text": "Core apples and cut into thin slices."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Combine sugar and water in a deep non-stick pan and boil."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Add saffron, mix and boil for about 10 minutes or till the sugar dissolves completely and syrup gets thick."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "Heat sufficient ghee in a kadahi."
+            },
+            {
+                "step_number": "5.",
+                "step_text": "Combine yeast and lukewarm water in a bowl, mix well."
+            },
+            {
+                "step_number": "6.",
+                "step_text": "Let the yeast dissolve completely."
+            },
+            {
+                "step_number": "7.",
+                "step_text": "Combine flour, cardamom powder, dissolved yeast and sugar in a bowl."
+            },
+            {
+                "step_number": "8.",
+                "step_text": "Add water and mix well to make a thick batter."
+            },
+            {
+                "step_number": "9.",
+                "step_text": "Set aside for 15 minutes."
+            },
+            {
+                "step_number": "10.",
+                "step_text": "Add rose water to sugar syrup and mix well."
+            },
+            {
+                "step_number": "11.",
+                "step_text": "Cook further till done."
+            },
+            {
+                "step_number": "12.",
+                "step_text": "Dip apple slices in the batter and deep-fry in ghee till golden."
+            },
+            {
+                "step_number": "13.",
+                "step_text": "Transfer apple jalebis in the sugar syrup and soak them for a minute."
+            }
+        ],
+        "For gulab ice-cream:": [
+            {
+                "step_number": "1.",
+                "step_text": "Combine ice cream, rose petals, rose petal \r\njam and chopped nuts in a blender jar and blend well."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Transfer the \r\nmixture into a silicon container, cover with the lid and freeze till \r\nset."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Plating:"
+            },
+            {
+                "step_number": "4.",
+                "step_text": "Transfer some apple jalebis on a serving dish."
+            },
+            {
+                "step_number": "5.",
+                "step_text": "Top it with a scoop of gulab ice cream, follow with another apple jalebi, garnish with pistachios and rose petals and serve."
+            }
+        ]
+    }
+}
