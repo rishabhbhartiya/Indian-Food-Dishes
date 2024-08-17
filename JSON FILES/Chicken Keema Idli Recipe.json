@@ -1,0 +1,84 @@
+{
+    "Recipe Title": "Chicken Keema Idli Recipe",
+    "Recipe Info": {
+        "Total Cook Time": "30 mins",
+        "Prep Time": "15 mins",
+        "Cook Time": "15 mins",
+        "Recipe Servings": "2",
+        "Easy": "N/A"
+    },
+    "Ingredients": [
+        "For Idli Batter",
+        "1 cup Urad dal",
+        "1 cup Blended Rice",
+        "to taste Salt",
+        "Oil to grease",
+        "For Keema",
+        "1 tbsp Oil",
+        "1 tsp Cumin seeds",
+        "1 tbsp Chopped onion",
+        "3 tbsp Chopped green chillies",
+        "1/2 tbsp Ginger garlic paste",
+        "1/2 tbsp Turmeric powder",
+        "to taste Chilli power",
+        "1/2 tsp Garam masala",
+        "1 tsp Cumin powder",
+        "1 medium Chopped Tomato",
+        "250  gms Minced chicken",
+        "2 tbsp Chopped fresh coriander",
+        "1/2 cup Water"
+    ],
+    "Main Title": "How to Make Chicken Keema Idli",
+    "Steps": {
+        "For Idli batter": [
+            {
+                "step_number": "1.",
+                "step_text": "Blend soaked dal, rice and salt together in a blender"
+            }
+        ],
+        "For Keema": [
+            {
+                "step_number": "1.",
+                "step_text": "Heat oil in a pan, then add cumin seeds. Once the seeds splutter, add onions and cook until brown."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Add green chillies and ginger garlic paste and keep stirring the mixture."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Add all the spices turmeric powder, chilli powder, garam masala and cumin powder."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "Add tomatoes and some water. Mash them together and let them cook until smooth gravy."
+            },
+            {
+                "step_number": "5.",
+                "step_text": "Add chicken mince and combine it with the spices properly. Let it cook for some time."
+            },
+            {
+                "step_number": "6.",
+                "step_text": "Garnish with fresh coriander leaves and allow the keema to cool."
+            }
+        ],
+        "For Assembling :": [
+            {
+                "step_number": "1.",
+                "step_text": "Grease idli maker moulds with oil and pour one layer of idli batter in the idli maker mould."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Add chicken keema on top of the first layer."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Add the second layer of batter over the keema and steam the idlis for 10-15 minutes."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "Serve it hot with coconut chutney and sambhar."
+            }
+        ]
+    }
+}

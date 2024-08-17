@@ -1,0 +1,79 @@
+{
+    "Recipe Title": "Chicken Do Pyaaza Recipe",
+    "Recipe Info": {
+        "Total Cook Time": "1 hr 25 mins",
+        "Prep Time": "10 mins",
+        "Cook Time": "1 hr 15 mins",
+        "Recipe Servings": "4",
+        "Medium": "N/A"
+    },
+    "Ingredients": [
+        "For the Chicken:",
+        "1 kg Chicken",
+        "2  Onions",
+        "2 tsp Garlic paste",
+        "1 tsp Ginger paste",
+        "1 tbsp Red chilli powder",
+        "1 1/2 tbsp Desi ghee",
+        "2 1/2 tsp Garlic and ginger paste",
+        "2  Tomatoes",
+        "1 cup Yogurt, small",
+        "1 tbsp Turmeric powder",
+        "1 tbsp Coriander powder",
+        "1 tbsp Cumin powder",
+        "For Garnishing:",
+        "3 tbsp Cream",
+        "1 tbsp Coriander leaves",
+        "1 tbsp Mint leaves",
+        "1 tbsp Kasoori methi",
+        "1 tbsp Green chillies, chopped",
+        "Salt",
+        "For the Garam Masala:",
+        "1 tbsp Green cardamom powder",
+        "1 tbsp Mace powder",
+        "1 tbsp Clove powder",
+        "1 tbsp Cinnamon powder",
+        "1/4 tsp Black cardamom powder"
+    ],
+    "Main Title": "How to Make Chicken Do Pyaaza",
+    "Steps": {
+        "Prepare Garam Masala:": [
+            {
+                "step_number": "1.",
+                "step_text": "Mix green cardamom powder, mace powder, clove powder, cinnamon powder and black cardamom powder."
+            }
+        ],
+        "Prepare Chicken:": [
+            {
+                "step_number": "1.",
+                "step_text": "Cut chicken into even size pieces and marinate with garlic paste, ginger paste, salt and some red chilli powder."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Finely chop one onion and cut the other into large pieces. Blend tomatoes to make a puree."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Heat desi ghee in a pan. Add garlic and ginger paste."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "When it turns brown, add chopped onions and cook till it turns golden brown. Now add tomato puree and salt."
+            },
+            {
+                "step_number": "5.",
+                "step_text": "Take some yoghurt in a bowl, add turmeric and red chilli powder and mix it well. Add this mixture to the tomato puree and cook for some time."
+            },
+            {
+                "step_number": "6.",
+                "step_text": "Add coriander powder, cumin powder, the marinated chicken, the onion cut into large pieces, water and garam masala."
+            }
+        ],
+        "For Garnishing:": [
+            {
+                "step_number": "1.",
+                "step_text": "Heat cream, coriander leaves, mint leaves, green chillies and kasoori methi. Add to the chicken and serve hot."
+            }
+        ]
+    }
+}

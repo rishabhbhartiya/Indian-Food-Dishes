@@ -1,0 +1,88 @@
+{
+    "Recipe Title": "Bamboo Biryani Recipe",
+    "Recipe Info": {
+        "Total Cook Time": "1 hr 30 mins",
+        "Prep Time": "30 mins",
+        "Cook Time": "1 hr",
+        "Recipe Servings": "2",
+        "Medium": "N/A"
+    },
+    "Ingredients": [
+        "500 gms chicken",
+        "2 tbsp salt",
+        "1 tsp black pepper powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chilli powder",
+        "1 tsp coriander seeds powder",
+        "1/2 tsp cumin seeds",
+        "1 tsp biryani masala",
+        "2 inch pieces  ginger",
+        "10  Garlic cloves",
+        "4  Green chillies",
+        "Coriander leaves",
+        "Mint leaves",
+        "1/2 cup curd",
+        "2 cups basmati rice",
+        "4 tsp ghee/oil",
+        "Whole spices",
+        "Saffron water",
+        "Fried onions"
+    ],
+    "Main Title": "How to Make Bamboo Biryani",
+    "Steps": {
+        "Marinating the rice:": [
+            {
+                "step_number": "1.",
+                "step_text": "Take raw basmati rice into a mixing bowl."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Add oil, salt, whole garam masala spices, ginger garlic paste, turmeric powder, red chili powder, biryani masala, onions, green chilies, mint leaves and mix well."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Keep it aside for an hour."
+            }
+        ],
+        "Assembling:": [
+            {
+                "step_number": "1.",
+                "step_text": "Clean the bamboo until you find no dust inside."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Grease the inner part with oil."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Put 2 spoonful\u2019s of chicken marinade first and then 4 to 5 spoons of rice. Repeat the process again."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "Add 1 \u00bc cups of water. Water runs down to the bottom through the gaps."
+            },
+            {
+                "step_number": "5.",
+                "step_text": "Cover the bamboo with an aluminum foil."
+            }
+        ],
+        "Making bamboo biryani:": [
+            {
+                "step_number": "1.",
+                "step_text": "Set fire and put the bamboos on it."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Leave for 30 to 35 minutes turning in between."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Later remove it from the fire and leave for 5 to 10 minutes."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "Serve hot on a banana leaf."
+            }
+        ]
+    }
+}

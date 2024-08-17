@@ -1,0 +1,99 @@
+{
+    "Recipe Title": "Calicut Chicken Biryani Recipe",
+    "Recipe Info": {
+        "Total Cook Time": "1 hr 20 mins",
+        "Prep Time": "10 mins",
+        "Cook Time": "1 hr 10 mins",
+        "Recipe Servings": "4",
+        "Medium": "N/A"
+    },
+    "Ingredients": [
+        "For the Marinade:",
+        "1/2 kg Chicken",
+        "1/2 cup Yoghurt",
+        "25 gram Coriander leaves",
+        "25 gram Mint leaves",
+        "10 gram Curry leaves",
+        "1/2 tsp Cumin seeds",
+        "1 tsp Coriander seeds",
+        "1/2 tsp Aniseed powder",
+        "25 gram Green chillies, chopped",
+        "20 gram Garlic",
+        "2 tsp  Ginger, chopped",
+        "1/2 tsp Turmeric powder",
+        "1 tsp Lime juice",
+        "1 tsp Poppy seed paste",
+        "For main preparation:",
+        "1 tbsp Clarified butter",
+        "5-6  Cinnamon pieces",
+        "1  Bay leaf",
+        "4-5  Cardamom seeds",
+        "4-5  Curry leaves",
+        "4-5  Cloves",
+        "1  Onion, chopped",
+        "250 gram Rice (broken)",
+        "1/2 litre Water",
+        "For the biryani masala:",
+        "2 tbsp Clarified butter",
+        "5-6  Cinnamon pieces",
+        "1  Bay leaf",
+        "4-5  Cloves",
+        "4-5  Cardamom seeds",
+        "1  Nutmeg",
+        "100 gram Onions",
+        "1 medium Tomato (cut in 4)"
+    ],
+    "Main Title": "How to Make Calicut Chicken Biryani",
+    "Steps": {
+        "Prepare the Marinade:": [
+            {
+                "step_number": "1.",
+                "step_text": "Mix yoghurt, coriander leaves, mint leaves, curry leaves, cumin seeds, coriander seeds, aniseed powder, green chillies, garlic, ginger, turmeric powder, lime juice and poppy seed paste and marinate the chicken in it."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Keep aside for 1/2 an hour."
+            }
+        ],
+        "Prepare the Rice:": [
+            {
+                "step_number": "1.",
+                "step_text": "Heat clarified butter in pan. Add cinnamon, 1 bay leaf, cardamom seeds, curry leaves and cloves. Add onions and saute till they turn translucent and caramelized."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Add washed and cleaned rice. Cook till rice turns translucent."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Add water.   When water comes to a boil, turn flame to low and cover pan."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "Cook on low flame for at least 15 minutes. The rice is done."
+            }
+        ],
+        "Prepare the Biryani Masala:": [
+            {
+                "step_number": "1.",
+                "step_text": "Heat clarified butter in pan and add cinnamon, 1 bay leaf, cardamom seeds, nutmeg and cloves."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Add onions and saute till brown. Add tomatoes. Add marinated chicken."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Cover pan and cook for at least 5 minutes on a medium flame.  Remove cover and cook on low flame for another 10 minutes to allow gravy to thicken."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "Layer the serving bowl with alternating layers of rice and the chicken masala."
+            },
+            {
+                "step_number": "5.",
+                "step_text": "Garnish the top with a boiled egg cut in four pieces, roasted cashews and raisins."
+            }
+        ]
+    }
+}

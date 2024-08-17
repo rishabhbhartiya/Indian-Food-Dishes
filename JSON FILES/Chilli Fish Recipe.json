@@ -1,0 +1,55 @@
+{
+    "Recipe Title": "Chilli Fish Recipe",
+    "Recipe Info": {
+        "Total Cook Time": "55 mins",
+        "Prep Time": "10 mins",
+        "Cook Time": "45 mins",
+        "Recipe Servings": "4",
+        "Medium": "N/A"
+    },
+    "Ingredients": [
+        "250 Gram Fish pieces (Boneless)",
+        "1/2 cup Maida",
+        "1/2 cup Corn flour",
+        "1 tsp Baking powder",
+        "2 tsp Soy sauce",
+        "2 tbsp Celery, finely chopped",
+        "1 tsp Pepper",
+        "Salt",
+        "Oil",
+        "To garnish  Spring onions",
+        "For the sauce:",
+        "1 tbsp Ginger, chopped",
+        "1 tbsp Garlic, chopped",
+        "1 tbsp Green chilly, chopped",
+        "4 tbsp Soy sauce",
+        "5 tbsp Tomato sauce",
+        "1 tbsp Chilli sauce",
+        "1 tbsp Corn flour"
+    ],
+    "Main Title": "How to Make Chilli Fish",
+    "Steps": {
+        "Prepare the sauce:": [
+            {
+                "step_number": "1.",
+                "step_text": "Heat oil in a pan."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Saute garlic, ginger and green chilly. Add soy sauce, chilly and tomato sauce to it."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Finally add corn flour mixed with water to it and stir well. Once it starts to boil, remove form fire."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "At the time of serving, pour the sauce on top of fried fish pieces and mix well."
+            },
+            {
+                "step_number": "5.",
+                "step_text": "Garnish with chopped spring onions."
+            }
+        ]
+    }
+}

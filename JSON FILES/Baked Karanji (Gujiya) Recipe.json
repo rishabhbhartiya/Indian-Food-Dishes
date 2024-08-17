@@ -1,0 +1,71 @@
+{
+    "Recipe Title": "Baked Karanji (Gujiya) Recipe",
+    "Recipe Info": {
+        "Total Cook Time": "1 hr 20 mins",
+        "Prep Time": "20 mins",
+        "Cook Time": "1 hr",
+        "Recipe Servings": "12",
+        "Medium": "N/A"
+    },
+    "Ingredients": [
+        "2 Cups Semolina",
+        "1 tsp Cardamom powder",
+        "1 tsp White butter",
+        "1/2 cup Raisins",
+        "1/2 cup Almonds (crushed)",
+        "1 cup Brown sugar",
+        "1 tsp Soda Bicarbonate",
+        "to taste Salt",
+        "1 tsp Onion seeds",
+        "1 cup Milk",
+        "1 cup Wheat flour",
+        "1/2 cup Honey"
+    ],
+    "Main Title": "How to Make Baked Karanji (Gujiya)",
+    "Steps": {
+        "For the Filling:": [
+            {
+                "step_number": "1.",
+                "step_text": "Heat 1 tsp white butter in a pan. After the butter melts, add 1/2 cup semolina along with cardamom powder and saute the mixture in regular intervals."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Once the raw smell of semolina is gone, add brown sugar, crushed almonds, and raisins. Mix well and take it off the heat. Keep it aside."
+            }
+        ],
+        "For the Dough:": [
+            {
+                "step_number": "1.",
+                "step_text": "Place the remaining semolina in a large bowl and add some onions seeds, salt and soda. Mix well."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Now add milk and let it soak until the semolina dissolves and turns soft."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "When the above process is done, add in the wheat flour and make a dough (add milk if required). Keep the dough aside for 1 hour."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "After an hour, take some dough required to make 4-inch pooris and roll it using the rolling pin"
+            },
+            {
+                "step_number": "5.",
+                "step_text": "Add about 1 Tbsp of the filling on one side of the poori and seal by folding both the edges to make a half moon-shaped structure. You can use a little water while sealing the edges."
+            },
+            {
+                "step_number": "6.",
+                "step_text": "Twist the edges to form a design pattern and repeat the procedure with the remaining dough."
+            },
+            {
+                "step_number": "7.",
+                "step_text": "Now bake the karanjis in a preheated oven for 25 minutes at 180 degrees C."
+            },
+            {
+                "step_number": "8.",
+                "step_text": "Let it cool. Dip in honey and serve."
+            }
+        ]
+    }
+}

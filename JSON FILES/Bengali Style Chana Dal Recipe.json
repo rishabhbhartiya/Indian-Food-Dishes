@@ -1,0 +1,52 @@
+{
+    "Recipe Title": "Bengali Style Chana Dal Recipe",
+    "Recipe Info": {
+        "Total Cook Time": "30 mins",
+        "Prep Time": "10 mins",
+        "Cook Time": "20 mins",
+        "Recipe Servings": "2",
+        "Easy": "N/A"
+    },
+    "Ingredients": [
+        "1 Cup chana Dal",
+        "1 tsp ghee",
+        "1/2 cup coconut, chopped",
+        "1 sticks cinnamon",
+        "1  Bay Leaf",
+        "1  Clove",
+        "1/4 cup raisins",
+        "1/2 tsp turmeric",
+        "1/2 tsp salt",
+        "A pinch of sugar",
+        "2 1/2 cups water",
+        "For Tadka",
+        "1 tsp ghee",
+        "1 tsp cumin seeds",
+        "2  Bay leaves",
+        "2  Cloves",
+        "1  Cinnamon sticks",
+        "4  Cardamom",
+        "2  Whole red chilli"
+    ],
+    "Main Title": "How to Make Bengali Style Chana Dal",
+    "Steps": {
+        "Prepare Tadka:": [
+            {
+                "step_number": "1.",
+                "step_text": "Take ghee in a pan, add cumin seeds, bay leaves, cloves, cinnamon, cardamom and red chilli whole."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Saute them thoroughly with the ghee."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Pour it over the cooked dal in the pressure cooker. Mix well."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "Serve the Bengali Style Chana Dal hot with garnishing of chopped and fried coconut."
+            }
+        ]
+    }
+}

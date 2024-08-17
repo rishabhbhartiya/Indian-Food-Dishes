@@ -1,0 +1,75 @@
+{
+    "Recipe Title": "Beetroot Modak Recipe",
+    "Recipe Info": {
+        "Total Cook Time": "40 mins",
+        "Prep Time": "10 mins",
+        "Cook Time": "30 mins",
+        "Recipe Servings": "4",
+        "Medium": "N/A"
+    },
+    "Ingredients": [
+        "For modak:",
+        "2 cup gram flour (besan)",
+        "2 tbsp semolina (rava/sooji)",
+        "1/4 tsp beetroot colour or two oven cooked beetroot paste",
+        "1 1/2 cup water",
+        "Oil (for frying)",
+        "For sugar syrup:",
+        "1 cup sugar",
+        "1/2 cup water",
+        "1/4 tsp cardamom powder",
+        "1/2 tsp lemon juice",
+        "2 tbsp cashews (kaju), chopped"
+    ],
+    "Main Title": "How to Make Beetroot Modak",
+    "Steps": {
+        "Prepare mixture:": [
+            {
+                "step_number": "1.",
+                "step_text": "Take a bowl and mix the above modak ingredients with Water, let it sit for 30 minutes."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Prepare Oil for frying and use perforated spoon to jerk and make small globules"
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Make sure it is slow cooked and deep fried ,remove from the oil and place it in paper towel to remove oil.Cool down  to mix it with sugar syrup."
+            }
+        ],
+        "Prepare sugar syrup:": [
+            {
+                "step_number": "1.",
+                "step_text": "To the hot sugar syrup, add above prepared modak mixture."
+            },
+            {
+                "step_number": "2.",
+                "step_text": "Continue cooking for 2-3 minutes Or until sugar syrup thickens."
+            },
+            {
+                "step_number": "3.",
+                "step_text": "Cover and keep aside for 10 minutes."
+            },
+            {
+                "step_number": "4.",
+                "step_text": "After 10 Minutes, sugar syrup is absorbed completely by the mixture."
+            },
+            {
+                "step_number": "5.",
+                "step_text": "Add 2 tbsp cashew and 2 tbsp pistachios. Mix well."
+            },
+            {
+                "step_number": "6.",
+                "step_text": "You can see the mixture is dried and all the sugar syrup is absorbed."
+            },
+            {
+                "step_number": "7.",
+                "step_text": "Prepare the modak taking a small amount of mixture. Add milk if required to moisten modak."
+            },
+            {
+                "step_number": "8.",
+                "step_text": "Finally, modak is ready to be served or can be refrigerate for a week."
+            }
+        ]
+    }
+}
